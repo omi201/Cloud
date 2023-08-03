@@ -2,7 +2,8 @@
 
 ## Architecture Diagram:
 
-![draw](https://user-images.githubusercontent.com/66474973/193271686-5be132db-0109-4ae1-acbe-1709061e1548.png)
+![image](https://github.com/omi201/Cloud/assets/69665129/019ca5d4-6193-4942-a055-7b5a95463ff8)
+
 
 ### Step 1: Configuring Azure
  1. Crate a resource group on Azure to deploy the resources on that
